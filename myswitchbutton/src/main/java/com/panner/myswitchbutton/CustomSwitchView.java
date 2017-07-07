@@ -163,7 +163,6 @@ public class CustomSwitchView extends View {
                 }
                 // 当前状态置为开关状态
                 isSwitchState = currentState;
-                isSwitchState = currentState;
                 break;
         }
         //系统提供的方法，可以重新调用一次onDraw（）方法
